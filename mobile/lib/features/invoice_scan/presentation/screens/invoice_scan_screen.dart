@@ -222,7 +222,7 @@ class _InvoiceScanScreenState extends State<InvoiceScanScreen> {
                       ),
                       label: const Text('Kamera'),
                       style: ElevatedButton.styleFrom(
-                        padding: const EdgeInsets.symmetric(vertical: 16),
+                        padding: const EdgeInsets.symmetric(vertical: 18),
                         shape: RoundedRectangleBorder(
                           borderRadius: BorderRadius.circular(12),
                         ),
@@ -239,7 +239,7 @@ class _InvoiceScanScreenState extends State<InvoiceScanScreen> {
                       ),
                       label: const Text('Galeri'),
                       style: ElevatedButton.styleFrom(
-                        padding: const EdgeInsets.symmetric(vertical: 16),
+                        padding: const EdgeInsets.symmetric(vertical: 18),
                         shape: RoundedRectangleBorder(
                           borderRadius: BorderRadius.circular(12),
                         ),
